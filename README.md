@@ -16,6 +16,6 @@ This project is about:
 
 ## Authors
 
-> * Sharif Didier Habimana
+> * Beauter Maraji
 
-> * 
+> * Peter Macharia
